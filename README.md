@@ -311,9 +311,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+- GitHub: [[@https://github.com/Emesticalytic/tax-compliance.git)
+- LinkedIn: 
+- Email: peacemem2019@gmail.com
 
 ---
 
