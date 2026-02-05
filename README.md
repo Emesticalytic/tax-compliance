@@ -335,6 +335,8 @@ Emem A
 4. How do you measure the business impact of ML-based risk targeting?
 5. What tools and platforms does the team use (Azure ML, Databricks, etc.)?
 
----
+⚠️ Disclaimer:
+All data used in this project is fully synthetic and generated solely for learning and demonstration purposes.
+This project is not affiliated with, endorsed by, or based on data from any real government department or organisation.
 
 **Built with ❤️ for Tax Compliance Analytics**
